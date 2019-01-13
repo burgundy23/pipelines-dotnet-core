@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/amitdatt0815/testone/_apis/build/status/burgundy23.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/amitdatt0815/testone/_build/latest?definitionId=2?branchName=master)
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
